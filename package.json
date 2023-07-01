@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "name": "townsbot",
+  "version": "1.0.0",
+  "description": "townsbot!!",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
